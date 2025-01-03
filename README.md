@@ -33,10 +33,6 @@ This intermediate-level course is ideal for developers with Python programming e
   - **Ethical considerations in AI**
 ### 3. **Certificate**
 - My official Coursera certificate of completion.
-<img class="fit-picture"
-     src="Generative-AI-with-LLMs/Certificate/Coursera-GenAI-with-LLMs.png">
-![Certificate](Generative-AI-with-LLMs/Certificate/Coursera-GenAI-with-LLMs.png) 
-*Certified by Coursera*  
 [View Certificate](https://www.coursera.org/account/accomplishments/verify/OC6RZKZOQ2QT)
 
 ---
